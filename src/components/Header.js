@@ -6,9 +6,9 @@ const Header = () => {
         <>
             <div className="header">
                 <div className="heder_logo">
-                    <img src="/title_logo.png" alt="title_logo" onClick={() => {
+                   <a href="Body.js"> <img src="/title_logo.png" alt="title_logo" onClick={() => {
                         console.log("url request");
-                    }}/>
+                    }}/></a>
                 </div>
             </div>
         </>

@@ -1,11 +1,11 @@
 .navBar {
-  height: 4rem;
+  height: 3.5rem;
   display: flex;
   align-items: center;
   justify-content: flex-start;
   background-color: rgba(147, 149, 151);
   box-shadow: 0px 5px 5px grey;
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
 }
 
 .navBar_sub {
