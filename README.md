@@ -1,4 +1,4 @@
-# simple web choosing game
+# simple choosing game in web
 
 ### Description
 > 🌱First project using ReactJS
