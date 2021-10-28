@@ -5,7 +5,7 @@
 > 
 > 🎯 
 >- This project was team project and I'm on the FE. I used ReactJS.
->- It's just uni project and even if I finished FE but my team couldn't finished BE. So, I will not fix this.
+>- Even if I finished FE but my team couldn't finished BE. However, it's just uni project and I will not fix this.
 >- Becareful. I admit my designing is like a child😂. but, atleast now I'm not aim to FE. So I don't care about it.
 
 `This project had been finished when I didn't know what is git and github yet.
